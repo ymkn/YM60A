@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "kbd_SW_Hole")(type "KiCad")(uri "C:/Users/ymkn/Documents/KiCad/7.0/projects/YM60A/KiCAD/lib/external/Salicylic-acid3/kbd_SW_Hole")(options "")(descr ""))
+)
