@@ -1,6 +1,6 @@
 # YM60A
 
-An ANSI layout for Japanese 60% hot swappable custom mechanical keyboard PCB powered by RP2040. Suitable for most Poker-compatible 60% keyboard cases.
+An ANSI-style layout for use on Japanese 106/109 layouts 60% hot swappable custom mechanical keyboard PCB powered by RP2040. Suitable for most Poker-compatible 60% keyboard cases.
 
 ![YM60A Art](image/ym60a_art.jpg)
 
