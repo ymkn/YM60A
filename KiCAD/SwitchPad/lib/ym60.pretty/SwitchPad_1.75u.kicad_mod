@@ -1,0 +1,18 @@
+(footprint "SwitchPad_1.75u" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
+  (attr smd)
+  (fp_text reference "REF**" (at 0 4.9) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp abcea926-33d8-442d-a367-35cda3816ca5)
+  )
+  (fp_text value "SwitchFoam_MX_1.75u" (at 0 3.1) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 930a4898-6462-4f61-bbad-855140dc5618)
+  )
+  (fp_rect (start -16.66875 -9.525) (end 16.66875 9.525)
+    (stroke (width 0.1) (type default)) (fill none) (layer "Dwgs.User") (tstamp 7eb14262-3140-4f1b-b979-757cd7be1aca))
+  (pad "" np_thru_hole circle (at -5.08 0) (size 1.8 1.8) (drill 1.8) (layers "F&B.Cu" "*.Mask") (tstamp 1d16fcc9-2392-4e97-85cf-23942e316d31))
+  (pad "" np_thru_hole circle (at 0 0) (size 4 4) (drill 4) (layers "F&B.Cu" "*.Mask") (tstamp db88ca2e-8376-4a56-bcf9-951a5ee0708b))
+  (pad "" np_thru_hole circle (at 5.08 0) (size 1.8 1.8) (drill 1.8) (layers "F&B.Cu" "*.Mask") (tstamp b903a75b-c053-418a-9435-3efbf51fa64b))
+)

@@ -1,0 +1,15 @@
+(footprint "SwitchPad_MountingHole" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (descr "Mounting Hole 2.1mm, no annular")
+  (tags "mounting hole 2.1mm no annular")
+  (attr exclude_from_pos_files exclude_from_bom)
+  (fp_text reference "REF**" (at 0 -3.2) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 5c387287-9ac0-4cc4-9497-9ebc258c1a43)
+  )
+  (fp_text value "SwitchPad_MountingHole" (at 0 3.2) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp d6364151-0fc9-496d-88d1-222e420f79ca)
+  )
+  (pad "" np_thru_hole circle (at 0 0) (size 7 7) (drill 7) (layers "F&B.Cu" "*.Mask") (tstamp 201d79da-8a4c-4b6f-916f-5485963d9ace))
+)

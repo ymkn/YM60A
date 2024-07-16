@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ym60")(type "KiCad")(uri "${KIPRJMOD}/lib/ym60.pretty")(options "")(descr ""))
+)
